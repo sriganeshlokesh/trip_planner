@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IC014</string>
+    <string name="title_activity_nearby_maps">Map</string>
+    <string name="enter_trip_name">Enter Trip Name</string>
+    <string name="search_city">Search for a City</string>
+    <string name="search">Search</string>
+    <string name="add_trip">Add Trip</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
